@@ -10,7 +10,7 @@ export default function Document() {
         />
         <meta
           name="description"
-          content="I write awesome code! I've been coding, designing, and building products for over a decade. I enjoy working in Typescript and contribute to open source software on Github."
+          content="I write adequate code! I've been coding, designing, and building products for over a decade. I enjoy working in Typescript and contribute to open source software on Github."
         />
         <meta
           name="keywords"

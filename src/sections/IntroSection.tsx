@@ -5,11 +5,11 @@ import ProfilePhoto from "./assets/ProfilePhoto.png";
 import { ScrollDownIcon } from "../components/AnimatedIcons";
 
 const content = {
-  name: "Marcin@Taipei.dev",
+  name: "nik",
   profilePhoto: ProfilePhoto,
-  title: "Full Stack Developer",
+  title: "Human",
   cta: {
-    label: "Follow me on Twitch!",
+    label: "Follow me!",
     url: "https://www.twitch.tv/taipei_dev",
   },
   socialMedia: {
@@ -20,7 +20,7 @@ const content = {
   },
   header: (
     <div>
-      I write <span className="text-purple-600">awesome</span> code!
+      I write <span className="text-purple-600">adequate</span> code!
     </div>
   ),
   description: (
